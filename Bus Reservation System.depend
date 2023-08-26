@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693078681 source:c:\users\dell\desktop\bus reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"App.h"
+
+1693082324 c:\users\dell\desktop\bus reservation system\app.h
+
+1693081097 source:c:\users\dell\desktop\bus reservation system\app.c
+	"App.h"
+
